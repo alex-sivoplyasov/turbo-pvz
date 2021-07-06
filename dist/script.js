@@ -89,4 +89,4 @@ partnersButton.addEventListener('click', () => {
     console.log('error')
 })
 
-// console.log('width', window.)
+// alert(window.innerWidth)
