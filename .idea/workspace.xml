@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f097b927-3e25-47f4-8aa4-4f7538f65c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/images/logo-mobile.png" afterDir="false" />
+    <list default="true" id="f097b927-3e25-47f4-8aa4-4f7538f65c31" name="Default Changelist" comment="Мобилка">
+      <change afterPath="$PROJECT_DIR$/dist/images/advantages/sweet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/hero-test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/hero/pillow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/shops/flower.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.css" afterDir="false" />
@@ -37,18 +40,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\turbo-pvz\dist\images\advantages" />
       <recent name="C:\projects\turbo-pvz\dist\images" />
       <recent name="C:\projects\turbo-pvz\dist" />
       <recent name="C:\projects\turbo-pvz\dist\images\pickup" />
       <recent name="C:\projects\turbo-pvz\dist\images\expected" />
-      <recent name="C:\projects\turbo-pvz\dist\images\advantages" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,8 +69,24 @@
       <workItem from="1625331975994" duration="4113000" />
       <workItem from="1625377682711" duration="7633000" />
       <workItem from="1625477546009" duration="13664000" />
-      <workItem from="1625544042567" duration="4683000" />
+      <workItem from="1625544042567" duration="5331000" />
+      <workItem from="1625569412364" duration="126000" />
+      <workItem from="1625661818458" duration="1536000" />
+      <workItem from="1625737850122" duration="114000" />
+      <workItem from="1625996803271" duration="1298000" />
+      <workItem from="1626168152951" duration="52000" />
+      <workItem from="1626943059695" duration="1604000" />
+      <workItem from="1626953942621" duration="72000" />
+      <workItem from="1626957725352" duration="169000" />
     </task>
+    <task id="LOCAL-00001" summary="Мобилка">
+      <created>1625551282458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625551282458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +103,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Мобилка" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мобилка" />
   </component>
 </project>
